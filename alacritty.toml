@@ -1,0 +1,27 @@
+
+[window]
+padding = {x=0,y=0}
+opacity = 0.8
+decorations = "None"
+title = " "
+[scrolling]
+[font]
+normal = {family="monospace", style="Regular"}
+size = 10.5
+offset = { x=0, y=-5}
+[colors]
+primary.background = "#232247"
+#primary.foreground = "#37faed"
+transparent_background_colors = false
+[colors.normal]
+black = "#000000"
+red = "#ff7883"
+green = "#3bff52" 
+yellow = "#fcff4a"
+blue = "#4a4dff"
+cyan = "#4affd5"
+magenta = "#ff4a9e"
+white = "#ffffff"
+[cursor]
+style.blinking = "On"
+
